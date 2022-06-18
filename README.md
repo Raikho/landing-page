@@ -1,1 +1,1 @@
-This project is to create a landing page to test out concepts learned in The Odin project.
+This project is to create a landing page to test out concepts learned in The Odin Project.
