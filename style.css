@@ -14,6 +14,17 @@ body {
     flex-grow: 0;
 }
 
+.header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.links {
+    display: flex;
+    flex-direction: row;
+    gap: 24px;
+}
+
 .panels {
     flex-grow: 1;
     display: flex;
@@ -79,4 +90,44 @@ body {
 .banner {
     background-color: #3882f6;
     color: white;
+}
+
+.panel#one {
+    display: flex;
+    flex-direction: row;
+}
+
+.panel#one > div {
+    flex-grow: 1;
+}
+
+.left {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+}
+
+.panel#two {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.images {
+    display: flex;
+    justify-content: space-around;
+}
+
+.panel#three {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.banner {
+    display: flex;
+    justify-content: space-between;
 }
