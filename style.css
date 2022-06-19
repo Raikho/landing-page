@@ -88,6 +88,7 @@ body {
     padding: 8px 24px;
     border-radius: 8px;
     border-style: none;
+    transition: 200ms all ease-in-out;
 }
 
 .gray {
@@ -158,7 +159,6 @@ body {
 }
 
 .images img {
-    border: 2px solid #3882f6aa;
     border-radius: 8px;
     height: 200px;
     width: 200px;
@@ -185,6 +185,7 @@ body {
     border: 2px solid;
     border-radius: 8px;
     padding: 40px 80px;
+    gap: 80px;
 }
 
 .banner-main {
@@ -199,3 +200,27 @@ body {
 .banner button {
     border: 2px solid white;
 }
+
+button:hover {
+    background-color:hsl(217, 91%, 39%);
+}
+
+button:active {
+    background-color:hsl(217, 91%, 69%);
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    color: #e5e7eb;
+    transition: 200ms all ease-in-out;
+}
+
+a:hover {
+    color: hsl(220, 13%, 71%);
+}
+
+a:active {
+    color: hsl(220, 13%, 61%);
+}
+
