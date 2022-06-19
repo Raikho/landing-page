@@ -1,6 +1,7 @@
 This project is to create a landing page to test out concepts learned in The Odin Project.
 
 Attributions:
+
 Photo by <a href="https://unsplash.com/@andyadcon?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">De an Sun</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
 Photo by <a href="https://unsplash.com/@picoftasty?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Mae Mu</a> on <a href="https://unsplash.com/s/photos/waffle?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
